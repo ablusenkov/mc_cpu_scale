@@ -1,6 +1,6 @@
 # Python Docs Parser
 
-## Возможности
+## Capabilities
 
 This standalone script is supposed to collect a number of Static/Dynamic Paths programmed on the ACI leaf.
 
