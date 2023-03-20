@@ -85,4 +85,4 @@ Run
 python3 ./EPgSPath_standalone.py 
 ```
 
-<h5 align="center">Автор: <a href="https://github.com/ablusenkov">Oleksandr Blusenkov</a></h5>
+<h5 align="center">Author: <a href="https://github.com/ablusenkov">Oleksandr Blusenkov</a></h5>
